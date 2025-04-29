@@ -20,7 +20,7 @@ cursor: pointer;
 }
 
 .teclas:hover {
-    background-color: greenyellow;
+    background-color: rgb(44, 44, 97);
 
 }
 
