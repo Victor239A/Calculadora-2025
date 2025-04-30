@@ -1,9 +1,10 @@
 .pantalla {
     height: 18rem;
-    background-color: rgb(130, 134, 130);
+    background-color:rgb(201, 201, 201);
     padding: 1rem;
 
-    font-size: 5rem;
+    border-bottom: 2px solid black;
+    font-size: 6rem;
     font-weight: 600;
 
     display: flex;
